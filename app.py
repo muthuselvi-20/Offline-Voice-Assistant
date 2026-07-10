@@ -1,17 +1,9 @@
 """
 🎤 Offline AI Voice Assistant — Streamlit UI
 Stack: Whisper (STT) + Ollama (LLM) + Piper (TTS)
-
-Replace the imports / pipeline calls in the "BACKEND HOOKS" section
-with your real modules. The UI below is fully wired to session_state
-so nothing disappears on rerun.
 """
 
 import streamlit as st
-
-# ============================================================
-# BACKEND HOOKS  (swap these with your real modules)
-# ============================================================
 try:
     from model import whisper_model
     from model import piper
