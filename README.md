@@ -285,7 +285,7 @@ Provides the graphical user interface for interacting with the assistant.
 
 B.E. Computer Science and Engineering (Artificial Intelligence & Machine Learning)
 
-Passionate about Artificial Intelligence, Machine Learning, Large Language Models, and Voice AI.
+Passionate about Artificial Intelligence, Machine Learning, Deep learning and  Large Language Models
 
 ---
 
